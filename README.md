@@ -59,8 +59,3 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31jcbphbfq47puoueallerpegdv4&unique={true|1|on|yes}" alt="Spotify recently played"  />
   </a>
 </div>
-<div alight="center">
-  <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3lyNwsohK73iKsGWHLFtMp?utm_source=generator" width="50%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</div>
-
-
